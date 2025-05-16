@@ -9,7 +9,7 @@ I'm a Master's student in Applied Data Science with a Bachelor in Global Sustain
 ### 🌱 Coming Soon:
 - Climate risk modeling
 - Sustainable urban design analytics
-- CO₂ footprint visualization tools
+- Circular economy and lifecycle modeling
 
 Stay tuned!
 
