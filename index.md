@@ -13,4 +13,4 @@ I'm a Master's student in Applied Data Science taking a year to explore meaningf
 
 Stay tuned!
 
-## [Contact)(/contact.md)
+## [Contact](/contact.md)
