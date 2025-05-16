@@ -13,5 +13,5 @@ I'm a Master's student in Applied Data Science with a Bachelor in Global Sustain
 
 Stay tuned!
 
-## Contact
+### Contact
 [LinkedIn](https://www.linkedin.com/in/philip-wehry-a9133a20a/)
