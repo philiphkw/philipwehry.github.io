@@ -12,3 +12,5 @@ I'm a Master's student in Applied Data Science taking a year to explore meaningf
 - CO₂ footprint visualization tools
 
 Stay tuned!
+
+## [Contact)(/contact.md)
