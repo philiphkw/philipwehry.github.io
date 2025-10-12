@@ -18,12 +18,9 @@ author_profile: true
 toc: true
 toc_sticky: true
 read_time: true
-# last_modified_at: 2025-10-12
+last_modified_at: 2025-10-12
 ---
 
-<p><small>Last updated:
-  {{ page.path | last_modified_at | date: "%B %-d, %Y" }}
-</small></p>
 
 # Introduction
 
