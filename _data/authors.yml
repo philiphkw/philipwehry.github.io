@@ -1,0 +1,14 @@
+Philip Wehry:
+  name        : "Philip Wehry"
+  bio         : "Master's student in Applied Data Science with a Bachelors in Global Sustainability Science."
+  avatar      : "/assets/images/bio-photo-1.jpg"
+  links:
+    - label: "LinkedIn"
+      icon: "fas fa-fw fa-link"
+      url: "https://www.linkedin.com/in/philip-wehry-a9133a20a/"
+    - label: "Github"
+      icon: fa-brands fa-github"
+      url: "https://github.com/philiphkw"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "philip.wehry@gmail.com"
