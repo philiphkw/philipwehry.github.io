@@ -21,6 +21,8 @@ read_time: true
 # last_modified_at: 2025-10-12
 ---
 
+<p><small>Last updated: {% last_modified_at %}</small></p>
+
 <p><small>Last updated:
   {{
     page.last_modified_at

@@ -22,6 +22,11 @@ jobs:
         with:
           fetch-depth: 0   # ensures full Git history for last-modified plugin
       
+      - name: Verify gem + file history
+        run: |
+          bundle show jekyll-last-modified-at || echo "gem not installed"
+          git log -1 --pretty="format:%h %ci %an %s" -- index.md || echo "index.md not tracked"
+    
       - name: Show last commit for index.md
         run: |
           git log -1 --pretty="format:%h %ci %an %s" -- index.md || echo "index.md not tracked"
