@@ -21,6 +21,8 @@ read_time: true
 # last_modified_at: 2025-10-12
 ---
 
+<p>DEBUG last_modified_at: “{{ page.last_modified_at | date: "%Y-%m-%d %H:%M:%S %z" }}”</p>
+
 # Introduction
 
 <div class="notice">
