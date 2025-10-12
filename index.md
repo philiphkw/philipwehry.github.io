@@ -1,5 +1,5 @@
 ---
-layout: gallery
+layout: default
 ---
 
 # Hi, I'm Philip
