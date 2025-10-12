@@ -2,35 +2,24 @@
 
 layout: single
 title: "Hi, I'm Philip"
-# sidebar:
-#   title: "Sample Title"
-#   nav: sidebar-sample
-excerpt: "This is my portfolio website."
+# excerpt: "This is my portfolio website."
 header:
   overlay_image: /assets/images/header-image-5.jpg
-  overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
-  # caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
-  # actions:
-  #   - label: "More Info"
-  #     url: "https://unsplash.com"
+  overlay_filter: 0.3
+
 author: Philip Wehry
 author_profile: true
 toc: true
 toc_sticky: true
 read_time: true
-# last_modified_at: 2025-10-12
+last_modified_at: 12-10-2025
 ---
 
-<p><small>Last updated: {% last_modified_at %}</small></p>
-
-<p><small>Last updated:
-  {{
-    page.last_modified_at
-    | default: (page.path | last_modified_at)
-    | default: site.time
-    | date: "%B %-d, %Y"
-  }}
-</small></p>
+<style>
+.page__hero--overlay {
+  min-height: 400px !important; /* adjust to your liking */
+}
+</style>
 
 # Introduction
 
@@ -54,5 +43,3 @@ I'm a Master's student in Applied Data Science with a Bachelor in Global Sustain
 - Sustainable urban design analytics
 
 Stay tuned!
-
-<p><small>Last updated: {{ page.last_modified_at | date: "%B %-d, %Y" }}</small></p>
