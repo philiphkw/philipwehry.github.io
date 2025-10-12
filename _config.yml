@@ -8,3 +8,7 @@ remote_theme: "mmistakes/minimal-mistakes@4.27.3"
 author: Philip Wehry
 jekyll-last-modified-at:
   use_git_last_modified: true
+  date_format: "%B %-d, %Y"
+
+url: "https://philiphkw.github.io"
+baseurl: "/philipwehry.github.io"
