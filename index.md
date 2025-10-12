@@ -9,7 +9,7 @@ I'm a Master's student in Applied Data Science with a Bachelor in Global Sustain
 ### Completed
 | Project | Description | Stack | Link |
 | ------- | ----------- | ----- | ---- |
-| **SDG RAG System** | Retrieval-Augmented Generation system for UN SDG documents using HyDE + Chroma + reranking. | Python, LangChain, Streamlit | [Repo](https://github.com/philiphkw/SDG-RAG-System) |
+| **SDG RAG System** | Retrieval-Augmented Generation system for UN SDG documents using HyDE + Chroma + reranking. | Python, LangChain, Streamlit | <ul><li>[Overview](\projects\SDG-RAG-System.md)</li><li>[Repo](https://github.com/philiphkw/SDG-RAG-System)</li> |
 
 
 ### Coming Soon:
