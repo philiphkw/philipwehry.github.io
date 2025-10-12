@@ -4,6 +4,7 @@ plugins:
   - jekyll-remote-theme
   - jekyll-include-cache
   - jekyll-last-modified-at
+  
 remote_theme: "mmistakes/minimal-mistakes@4.27.3"
 author: Philip Wehry
 jekyll-last-modified-at:

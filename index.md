@@ -21,8 +21,9 @@ read_time: true
 # last_modified_at: 2025-10-12
 ---
 
-<p>DEBUG last_modified_at: “{{ page.last_modified_at | date: "%Y-%m-%d %H:%M:%S %z" }}”</p>
-<p>DEBUG filter: “{{ page.path | last_modified_at | date: "%Y-%m-%d %H:%M:%S %z" }}”</p>
+<p><small>Last updated:
+  {{ page.path | last_modified_at | date: "%B %-d, %Y" }}
+</small></p>
 
 # Introduction
 
