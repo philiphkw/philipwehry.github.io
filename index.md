@@ -1,17 +1,18 @@
 ---
-
 layout: single
-title: "Hi, I'm Philip"
-# excerpt: "This is my portfolio website."
+
 header:
-  overlay_image: /assets/images/header-image-5.jpg
+  overlay_image: assets/images/header-image-4.jpg
   overlay_filter: 0.3
 
 author: Philip Wehry
 author_profile: true
+
 toc: true
 toc_sticky: true
+
 read_time: true
+
 last_modified_at: 12-10-2025
 ---
 
