@@ -1,9 +1,5 @@
 ---
-title: Philip Wehry
-description: Portfolio in Applied Data Science & Sustainability
-remote_theme: pages-themes/architect@v0.2.0
-plugins:
-  - jekyll-remote-theme
+layout: default
 ---
 
 # Hi, I'm Philip
