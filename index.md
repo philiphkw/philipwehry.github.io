@@ -24,14 +24,9 @@ last_modified_at: 12-10-2025
 
 # Introduction
 
-<div class="notice">
-  <h4>Note</h4>
-  <p>This page is still under construction.</p>
-</div>
-
 I'm a Master's student in Applied Data Science with a Bachelor in Global Sustainability Science. In my free time I like to explore meaningful, sustainability-focused data projects; uncovering insights, experimenting with skills and techniques, and building my knowledge on environmental, social, and economic systems. Especially where data can help reveal connections between people, the planet, and sustainable development. This repository will be a diary for my growing portfolio, showcasing my experience in data wrangling, visualization, statistical modelling, machine learning, and geospatial analysis.
 
-# Projects
+# Personal Projects
 ### Completed
 
 | Project | Description | Stack | Link |
@@ -42,5 +37,9 @@ I'm a Master's student in Applied Data Science with a Bachelor in Global Sustain
 - [Circular Economy Analysis](/projects/circular-economy-analysis.md)
 - Climate risk modeling
 - Sustainable urban design analytics
+
+# Master Projects
+### Coming Soon
+- Comparative Analysis of Fact-Checking Organizations
 
 Stay tuned!
