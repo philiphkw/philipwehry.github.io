@@ -28,11 +28,9 @@ I'm a Master's student in Applied Data Science with a Bachelor in Global Sustain
 
 ---
 # Personal Projects
-### Completed
-
-| Project | Description | Stack | Link |
-| ------- | ----------- | ----- | ---- |
-| **SDG RAG System** | Retrieval-Augmented Generation system for UN SDG documents using HyDE + Chroma + reranking. | Python, LangChain, Streamlit | [Repo](https://github.com/philiphkw/SDG-RAG-System) |
+| Development Stage | Project | Description | Stack | Link |
+| ----------------- | ------- | ----------- | ----- | ---- |
+| Completed | **SDG RAG System** | Retrieval-Augmented Generation system for UN SDG documents using HyDE + Chroma + reranking. | Python, LangChain, Streamlit | [Repo](https://github.com/philiphkw/SDG-RAG-System) |
 
 ### Coming Soon:
 - [Circular Economy Analysis](/projects/circular-economy-analysis.md)
@@ -41,7 +39,10 @@ I'm a Master's student in Applied Data Science with a Bachelor in Global Sustain
 
 ---
 # Master Projects
-### Coming Soon
-- Comparative Analysis of Fact-Checking Organizations
 
-Stay tuned!
+| Development Stage | Project | Description | Stack | Link |
+| ----------------- | ------- | ----------- | ----- | ---- |
+| Under development | **Fact-Checking Organizations** | A comparative analysis of fact checking organzations through toxicity and sentiment analysis, and unsupervised machine-learning by means of K-Means Clustering and LDA. | Python, Pandas, Gensim, sklearn | [Repo](https://github.com/philiphkw/fact-checking) |
+
+### Coming Soon
+- Hyperparameter Optimization of Hydrological Forecasting Models 
